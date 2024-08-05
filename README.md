@@ -16,12 +16,12 @@ To use this Tic Tac Toe game, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/abdulaziz-M895/JS-Tic-Tac-Toe.git
+    git clone https://github.com/abdulaziz-M895/Tic-Tac-Toe.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd JS-Tic-Tac-Toe
+    cd Tic-Tac-Toe
     ```
 
 3. Open `index.html` in your web browser.
